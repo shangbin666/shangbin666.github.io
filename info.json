@@ -1,0 +1,206 @@
+{
+    "header": [
+        " *   ",
+        " *   如非需要调试，本文件可删除",
+        " *   非专业人员可将本文件删除",
+        " *   详细介绍请参考: https://bazhan.me/faq#INFO-JSON",
+        " *   "
+    ],
+    "resources": [
+        {
+            "url": "http://mxyyds.hanhan.icu/",
+            "path": "index.html",
+            "saved": true,
+            "size": 14769,
+            "children": [
+                {
+                    "url": "https://q1.qlogo.cn/headimg_dl?dst_uin=898892121&spec=100",
+                    "saved": false
+                },
+                {
+                    "url": "http://mxyyds.hanhan.icu/script.js",
+                    "path": "js/script.js",
+                    "saved": true,
+                    "size": 0,
+                    "children": []
+                },
+                {
+                    "url": "http://mxyyds.hanhan.icu/style.css",
+                    "path": "css/style.css",
+                    "saved": true,
+                    "size": 75492,
+                    "children": [
+                        {
+                            "url": "http://mxyyds.hanhan.icu/fonts/bookmark.TTF",
+                            "saved": false
+                        },
+                        {
+                            "url": "http://mxyyds.hanhan.icu/backtotop.svg",
+                            "saved": false
+                        },
+                        {
+                            "url": "http://mxyyds.hanhan.icu/iconfont/iconfont.eot?t=1559842184425",
+                            "saved": false
+                        },
+                        {
+                            "url": "http://mxyyds.hanhan.icu/iconfont/iconfont.eot?t=1559842184425#iefix",
+                            "saved": false
+                        },
+                        {
+                            "url": "http://mxyyds.hanhan.icu/iconfont/iconfont.woff?t=1559842184425",
+                            "saved": false
+                        },
+                        {
+                            "url": "http://mxyyds.hanhan.icu/iconfont/iconfont.ttf?t=1559842184425",
+                            "saved": false
+                        },
+                        {
+                            "url": "http://mxyyds.hanhan.icu/iconfont/iconfont.svg?t=1559842184425#iconfont",
+                            "saved": false
+                        },
+                        {
+                            "url": "http://mxyyds.hanhan.icu/font/aplayer-fontello.eot?72550380",
+                            "saved": false
+                        },
+                        {
+                            "url": "http://mxyyds.hanhan.icu/font/aplayer-fontello.eot?72550380#iefix",
+                            "saved": false
+                        },
+                        {
+                            "url": "http://mxyyds.hanhan.icu/font/aplayer-fontello.woff?72550380",
+                            "path": "fonts/aplayer-fontello.woff",
+                            "saved": true,
+                            "size": 0,
+                            "children": []
+                        },
+                        {
+                            "url": "http://mxyyds.hanhan.icu/font/aplayer-fontello.ttf?72550380",
+                            "path": "fonts/aplayer-fontello.ttf",
+                            "saved": true,
+                            "size": 6388,
+                            "children": []
+                        },
+                        {
+                            "url": "http://mxyyds.hanhan.icu/font/aplayer-fontello.svg?72550380#fontello",
+                            "saved": false
+                        },
+                        {
+                            "url": "https://cdn.jsdelivr.net/gh/nuoxianCN/cdn@1.0.4/pay/images/like.svg",
+                            "path": "img/like.svg",
+                            "saved": true,
+                            "size": 0,
+                            "children": []
+                        },
+                        {
+                            "url": "http://mxyyds.hanhan.icu/svg/qq.svg",
+                            "path": "img/qq.svg",
+                            "saved": true,
+                            "size": 0,
+                            "children": []
+                        },
+                        {
+                            "url": "http://mxyyds.hanhan.icu/svg/alipay.svg",
+                            "path": "img/alipay.svg",
+                            "saved": true,
+                            "size": 0,
+                            "children": []
+                        },
+                        {
+                            "url": "http://mxyyds.hanhan.icu/svg/wechat.svg",
+                            "path": "img/wechat.svg",
+                            "saved": true,
+                            "size": 0,
+                            "children": []
+                        },
+                        {
+                            "url": "http://mxyyds.hanhan.icu/svg/qq1.svg",
+                            "path": "img/qq1.svg",
+                            "saved": true,
+                            "size": 0,
+                            "children": []
+                        },
+                        {
+                            "url": "http://mxyyds.hanhan.icu/svg/alipay1.svg",
+                            "path": "img/alipay1.svg",
+                            "saved": true,
+                            "size": 0,
+                            "children": []
+                        },
+                        {
+                            "url": "http://mxyyds.hanhan.icu/svg/wechat1.svg",
+                            "path": "img/wechat1.svg",
+                            "saved": true,
+                            "size": 0,
+                            "children": []
+                        },
+                        {
+                            "url": "https://cdn.jsdelivr.net/gh/nuoxianCN/cdn@1.0.4/pay/images/github.svg",
+                            "path": "img/github.svg",
+                            "saved": true,
+                            "size": 0,
+                            "children": []
+                        }
+                    ]
+                },
+                {
+                    "url": "http://mxyyds.hanhan.icu/favicon.ico",
+                    "path": "favicon.ico",
+                    "saved": true,
+                    "size": 0,
+                    "children": []
+                },
+                {
+                    "url": "https://q1.qlogo.cn/headimg_dl?dst_uin=898892121&spec=100",
+                    "saved": false
+                }
+            ]
+        }
+    ],
+    "alias": "mxyyds-hanhan-icu-ogt12ire",
+    "info": {
+        "request": {
+            "headers": {
+                "accept": "text/html,*/*",
+                "accept-language": "zh-CN,zh;q=0.9",
+                "accept-encoding": "gzip",
+                "cache-control": "no-cache",
+                "cookie": "",
+                "referer": "http://mxyyds.hanhan.icu/style.css",
+                "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/78.0.3904.108 Safari/537.36",
+                "x-scraper-website": "https://bazhan.me/"
+            }
+        },
+        "response": {
+            "redirects": [],
+            "responseUrl": "http://mxyyds.hanhan.icu/",
+            "statusCode": 200,
+            "headers": {
+                "server": "kangle/3.5",
+                "date": "Sun, 22 Aug 2021 07:37:19 GMT",
+                "last-modified": "Sat, 21 Aug 2021 16:12:54 GMT",
+                "content-type": "text/html",
+                "content-length": "3549",
+                "connection": "close"
+            }
+        },
+        "time": {
+            "start": "2021-08-22T07:37:18.631Z",
+            "end": "2021-08-22T07:37:22.138Z"
+        },
+        "remark": [],
+        "ip": "103.237.103.223",
+        "url": "http://mxyyds.hanhan.icu/",
+        "main": "index.html",
+        "domain": "mxyyds.hanhan.icu",
+        "origin": "http://mxyyds.hanhan.icu",
+        "totalSize": "96.6 kB"
+    },
+    "options": {
+        "formatter": [],
+        "url": "http://mxyyds.hanhan.icu/",
+        "referer": "",
+        "cookies": "",
+        "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/78.0.3904.108 Safari/537.36",
+        "filenameGenerator": "byType"
+    }
+}
